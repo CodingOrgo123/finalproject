@@ -1,0 +1,140 @@
+/* LeftSidebar.css */
+.left-sidebar {
+    width: 300px;
+    color:white;
+    padding: 30px;
+    background-color: rgb(6, 6, 27);
+    height:590px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .outer-shell{
+    display:flex;
+   
+    height:100%;
+  }
+  .right{
+    padding:20px;
+   
+    
+        
+
+  }
+  .divss{
+    display:flex;
+    margin-top: 20px;
+    
+  }
+  .div1{
+    height:150px;
+    width:200px;
+    background-color:rgb(6, 6, 29);
+   padding: 10px;
+    margin-right: 30px;
+    margin-left: 60px;
+    color:white;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 12px;
+  }
+  .div2{
+    height:150px;
+    width:200px;
+    background-color:rgb(187, 30, 30);
+    padding: 10px;
+    margin-right: 30px;
+    color:white;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 12px;
+  }
+  .div3{
+    height:150px;
+    width:200px;
+    background-color:rgb(6, 6, 29);
+    padding: 10px;
+    margin-right: 30px;
+    color:white;
+    text-align: center;
+    font-weight: bolder;
+    border-radius: 12px;
+  }
+ 
+  #msss{
+    color:white;
+  }
+  #mss{
+    color:black;
+    font-weight: bolder;
+  }
+  .div4{
+    border-radius: 12px;
+    height:150px;
+    width:200px;
+    background-color:rgb(187, 37, 37);
+    padding: 10px;
+    color:white;
+    margin-right: 30px;
+    text-align: center;
+    font-weight: bolder;
+  }
+  /* DataDisplay.css */
+.styled-table {
+    width: 800px;
+    border-collapse: collapse;
+    margin-top: 50px;
+   margin-left: 0px;
+   background-color: antiquewhite;
+
+  }
+  
+  .styled-table th,
+  .styled-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border: 3px solid black;
+    color:black;
+  }
+  
+  .styled-table th {
+    background-color: #f2f2f2;
+    border:3px solid black;
+    color:blue;
+  }
+  .styled-tablesss {
+    width: 800px;
+    border-collapse: collapse;
+    margin-top: 50px;
+   margin-left: 0px;
+   background-color: antiquewhite;
+
+  }
+  
+  
+  .styled-tablesss th,
+  .styled-tablesss td {
+    padding: 12px 15px;
+    text-align: left;
+    border: 3px solid black;
+    color:black;
+  }
+  
+  .styled-tablesss th {
+    background-color: #f2f2f2;
+    border:3px solid black;
+    color:blue;
+  }
+  
+  .sidebar-options {
+    list-style-type: none;
+    padding: 0;
+    font-size: 20px;
+    
+  }
+  .sidebar-options li {
+    padding-bottom: 30px;
+  }
+  
+  /* Add more styling for the left sidebar as needed */
+  

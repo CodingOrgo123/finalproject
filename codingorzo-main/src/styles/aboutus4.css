@@ -1,0 +1,12 @@
+.aboutss{
+    color:white;
+    font-size: 2rem;
+    text-align: center;
+    background: var(--newsletter-bg);
+    margin-top: 140px;
+    height: 250px;
+    padding-top: 70px;
+}
+.light-theme .aboutss{
+    background:var(--primary-color);
+}

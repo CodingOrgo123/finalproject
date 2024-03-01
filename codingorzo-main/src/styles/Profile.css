@@ -1,0 +1,38 @@
+.profile{
+    display: flex;
+    margin-bottom: 40px;
+    column-gap: 1.5rem;
+    
+}
+.username{
+    border:1 px solid white;
+    background-color: var(--icon-bg);
+    height:40px;
+    width:100%;
+    padding: 7px;
+    border-bottom: 2px solid var(--primary-color);
+}
+.role{
+    border:1 px solid white;
+    background-color: var(--icon-bg);
+    height:40px;
+    width:100%;
+    padding: 7px;
+    border-bottom: 2px solid var(--primary-color);
+}
+.problem-solved{
+    border:1 px solid white;
+    background-color: var(--icon-bg);
+    height:40px;
+    width:100%;
+    padding: 7px;
+    border-bottom: 2px solid var(--primary-color);
+}
+.rank{
+    border:1 px solid white;
+    background-color: var(--icon-bg);
+    padding: 7px;
+    height:40px;
+    width:100%;
+    border-bottom: 2px solid var(--primary-color);
+}
