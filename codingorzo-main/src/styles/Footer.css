@@ -1,0 +1,37 @@
+.footer{
+    padding:60px 0px;
+}
+.footer_wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.footer_quick-links{
+    width: 20%;
+}
+.footer_logo{
+    width: 40%;
+}
+.footer_logo h2{
+    color:var(--primary-color);
+}
+.small_text{
+    font-size: 1rem;
+    margin-top: 30px;
+}
+.quick_link-title{
+    font-size: 1.1rem;
+    color:var(--primary-color);
+    font-weight: 400;
+    margin-bottom: 30px;
+
+}
+.quick-links{
+    list-style: none;
+}
+.quick-link-item{
+    margin-bottom: 30px;
+}
+.quick-link-item a{
+    font-style: .9rem;
+    font-weight: 300;
+}

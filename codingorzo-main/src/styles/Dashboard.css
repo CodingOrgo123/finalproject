@@ -1,0 +1,77 @@
+.service-title{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 100px;
+}
+.service-item_wrappers{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 1.0rem;
+    background-color:white;
+    
+    padding: 10px;
+    border-radius: 20px;
+}
+.service-item{
+    background: var(--card-bg);
+    width:28%;
+    padding: 30px 15px;
+    text-align: center;
+    border-radius: .5rem;
+}
+.service-icons{
+    width:50%;
+    height:60%;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    justify-content: center;
+    background: var(--icon-bg);
+    
+}
+.levelss{
+    font-size: 1.0rem;
+    padding-top: 10px;
+    color:var(--primary-color);
+}
+#welcome{
+    font-size: 2.5rem;
+    color:rgb(247, 238, 238);
+    text-align: center;
+    margin-top: 20px;
+}
+.progress-bar{
+    margin-top: 11px;
+    margin-left: 30px;
+    border-radius: 5px;
+    
+   min-width:140px;
+    height:20%;
+    font-weight: bold;
+    background-color: rgb(168, 31, 31);
+
+}
+.light-theme #welcome{
+    color:var(--primary-color)
+}
+.levels{
+    display:flex;
+}
+.service-icons i{
+    font-size: 6.5rem;
+    color:var(--primary-color);
+}
+.service-titles{
+    color:var(--primary-color);
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+}
+.light-theme .service-icon{
+    background-color: var(--primary-color);
+    color:white;
+}
+.light-theme .service-icon i{
+
+    color:white;
+}
